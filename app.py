@@ -128,7 +128,7 @@ if menu == "🌌 Ciberespacio 3D":
         <script>
             // Poemas para las estrellas
             const poemas = [
-                "Puedes contar conmigo, y se que seremos y llegaremos a lo mismo o mejor que antes, yo cuando contigo para todo, tu eres mi psicologa y nadie cambiara eso, mi vista hacia ti es hermosa y eso no lo cambia nadie, eres la mejor y te amo",
+                "Puedes contar conmigo, y se que seremos y llegaremos a lo mismo o mejor que antes, yo cuento contigo para todo, tu eres mi psicologa y nadie cambiara eso, mi vista hacia ti es hermosa y eso no lo cambia nadie, eres la mejor y te amo",
                 "Fufu, si el universo es infinito, mi amor por ti es el espacio en el que se expande.",
                 "Eres la línea de código perfecta que resolvió todos mis errores.",
                 "No hay constelación más hermosa que el reflejo de las estrellas en tus ojos.",
@@ -273,7 +273,7 @@ elif menu == "💌 Mensaje Principal":
     with col2:
         st.markdown("""
         <div class="poema-destacado">
-            <strong>"Puedes contar conmigo, y se que seremos y llegaremos a lo mismo o mejor que antes, yo cuando contigo para todo, tu eres mi psicologa y nadie cambiara eso, mi vista hacia ti es hermosa y eso no lo cambia nadie, eres la mejor y te amo"</strong>
+            <strong>"Puedes contar conmigo, y se que seremos y llegaremos a lo mismo o mejor que antes, yo cuento contigo para todo, tu eres mi psicologa y nadie cambiara eso, mi vista hacia ti es hermosa y eso no lo cambia nadie, eres la mejor y te amo"</strong>
         </div>
         """, unsafe_allow_html=True)
         
@@ -285,6 +285,6 @@ elif menu == "💌 Mensaje Principal":
         """)
         
         if st.button("Toca aquí para un último regalo"):
-            st.snow()
-            st.success("Mi corazón es tuyo. Siempre. 💖")
+            st.snow)
+            st.success("Mi corazón es tuyo. Siempre. yo estare a ma vuelta de la esquina solo para ti💖")
 
