@@ -285,6 +285,6 @@ elif menu == "💌 Mensaje Principal":
         """)
         
         if st.button("Toca aquí para un último regalo"):
-            st.snow)
+            st.snow()
             st.success("Mi corazón es tuyo. Siempre. yo estare a ma vuelta de la esquina solo para ti💖")
 
